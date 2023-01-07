@@ -7,11 +7,11 @@
     {
         "title": "Project 2",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, velit corrupti quasi enim natus eos repellat odit dolorum autem esse saepe porro at reiciendis",
-        "image": "images/fingerprint.svg"
+        "image": "images/secure.svg"
     },
     {
         "title": "Project 3",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, velit corrupti quasi enim natus eos repellat odit dolorum autem esse saepe porro at reiciendis",
-        "image": "images/fingerprint.svg"
+        "image": "images/two-factor.svg"
     }
 ]
