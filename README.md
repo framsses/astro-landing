@@ -1,4 +1,6 @@
-# Astro Starter Kit: Minimal
+![Landing Page](./public/landing-page.png "A Landing Page Example with Astro" )
+
+# Astro Landing Starter Kit: Minimal
 
 ```
 npm create astro@latest -- --template minimal
